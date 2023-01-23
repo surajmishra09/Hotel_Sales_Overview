@@ -10,7 +10,7 @@ Link to [Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNTExMmIwM2It
 
 
 
-The company owns multiple properties across India and has been in the hospitality industry for the past 6 years. However, the company is losing its revenue in the luxury/business property category. As a strategic move, the Managing Director of the company wants to incorporate "Business and Data Intelligence" in order to regain market share and revenue. However, the company does not have an in-house data analytics team to provide these insights.
+The company owns multiple properties across India and has been in the hospitality industry for the past 3 months. However, the company is losing its revenue in the luxury/business property category. As a strategic move, the Managing Director of the company wants to incorporate "Business and Data Intelligence" in order to regain market share and revenue. However, the company does not have an in-house data analytics team to provide these insights.
 
 
 # Data Collection
