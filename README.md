@@ -2,7 +2,7 @@
 
 
 
-Link to [Interactive Report](https://app.powerbi.com/view?r=eyJrIjoiNTExMmIwM2ItN2U3MC00OTZmLWEwODAtYmQzODVkZThkZTBjIiwidCI6IjBhMTM0ZWQ3LTliMDEtNDU2Ny05NzBjLWI1MmY2MGU2ZDgwMyJ9&pageName=ReportSection)
+Link to [Interactive Report](https://www.novypro.com/project/power-bi-86)
 
 
 
